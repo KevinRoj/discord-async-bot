@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\",
+  "WorkspaceRootPath": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord_async_bot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|solutionrelative:discord_async_bot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\bot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|solutionrelative:bot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\riot_api.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|solutionrelative:riot_api.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\database.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|solutionrelative:database.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "discord_async_bot.py",
-              "DocumentMoniker": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord_async_bot.py",
-              "RelativeDocumentMoniker": "discord_async_bot.py",
-              "ToolTip": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord_async_bot.py",
-              "RelativeToolTip": "discord_async_bot.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "riot_api.py",
+              "DocumentMoniker": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\riot_api.py",
+              "RelativeDocumentMoniker": "riot_api.py",
+              "ToolTip": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\riot_api.py",
+              "RelativeToolTip": "riot_api.py",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFoAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-11-18T19:30:32.104Z",
+              "WhenOpened": "2026-11-18T20:10:11.485Z",
               "EditorCaption": "",
-              "OwnerCaption": "discord_async_bot.py"
+              "OwnerCaption": "riot_api.py"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bot.py",
+              "DocumentMoniker": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\bot.py",
+              "RelativeDocumentMoniker": "bot.py",
+              "ToolTip": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\bot.py",
+              "RelativeToolTip": "bot.py",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAuwHcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-18T20:08:00.375Z",
+              "EditorCaption": "",
+              "OwnerCaption": "bot.py"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "database.py",
+              "DocumentMoniker": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\database.py",
+              "RelativeDocumentMoniker": "database.py",
+              "ToolTip": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\database.py",
+              "RelativeToolTip": "database.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-18T19:55:33.886Z",
+              "EditorCaption": "",
+              "OwnerCaption": "database.py"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord-async-bot\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-18T19:55:27.122Z",
+              "EditorCaption": "",
+              "OwnerCaption": ".env"
             }
           ]
         }
