@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord_async_bot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95C09C1B-2B31-4E93-BCA2-41B42D398E89}|discord-async-bot.pyproj|solutionrelative:discord_async_bot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "discord_async_bot.py",
+              "DocumentMoniker": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord_async_bot.py",
+              "RelativeDocumentMoniker": "discord_async_bot.py",
+              "ToolTip": "C:\\Users\\pc56156\\source\\repos\\inventory-management-api\\discord-async-bot\\discord_async_bot.py",
+              "RelativeToolTip": "discord_async_bot.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-11-18T19:30:32.104Z",
+              "EditorCaption": "",
+              "OwnerCaption": "discord_async_bot.py"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
